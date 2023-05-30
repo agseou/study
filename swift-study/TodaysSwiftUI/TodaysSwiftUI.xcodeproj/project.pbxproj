@@ -12,6 +12,7 @@
 		A00CE1352A243BDB00C1AA3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A00CE1342A243BDB00C1AA3F /* Assets.xcassets */; };
 		A00CE1382A243BDB00C1AA3F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A00CE1372A243BDB00C1AA3F /* Preview Assets.xcassets */; };
 		A00CE13F2A243F0000C1AA3F /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00CE13E2A243F0000C1AA3F /* MyButton.swift */; };
+		A064872E2A259B5B003EDF99 /* Mytext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A064872D2A259B5B003EDF99 /* Mytext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A00CE1342A243BDB00C1AA3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A00CE1372A243BDB00C1AA3F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A00CE13E2A243F0000C1AA3F /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
+		A064872D2A259B5B003EDF99 /* Mytext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mytext.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				A00CE1302A243BDA00C1AA3F /* TodaysSwiftUIApp.swift */,
 				A00CE1322A243BDA00C1AA3F /* ContentView.swift */,
 				A00CE13E2A243F0000C1AA3F /* MyButton.swift */,
+				A064872D2A259B5B003EDF99 /* Mytext.swift */,
 				A00CE1342A243BDB00C1AA3F /* Assets.xcassets */,
 				A00CE1362A243BDB00C1AA3F /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				A00CE1332A243BDA00C1AA3F /* ContentView.swift in Sources */,
 				A00CE1312A243BDA00C1AA3F /* TodaysSwiftUIApp.swift in Sources */,
+				A064872E2A259B5B003EDF99 /* Mytext.swift in Sources */,
 				A00CE13F2A243F0000C1AA3F /* MyButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
