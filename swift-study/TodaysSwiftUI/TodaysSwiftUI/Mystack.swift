@@ -23,7 +23,6 @@ struct Mystack: View {
             Text("3")
                 .background(.blue)
             Text("1")
-            Text("2")
         }
         .frame(width: 300, height: 200, alignment: .leading)
         .background(.orange)
