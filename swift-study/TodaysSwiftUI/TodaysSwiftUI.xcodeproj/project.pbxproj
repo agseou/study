@@ -21,6 +21,7 @@
 		A06487342A25F236003EDF99 /* Myscroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487332A25F236003EDF99 /* Myscroll.swift */; };
 		A06487362A25FC34003EDF99 /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487352A25FC34003EDF99 /* MyList.swift */; };
 		A06487382A2603AA003EDF99 /* MySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487372A2603AA003EDF99 /* MySection.swift */; };
+		A0E07C062A2981850071E0BC /* Mystate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E07C052A2981850071E0BC /* Mystate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		A06487332A25F236003EDF99 /* Myscroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Myscroll.swift; sourceTree = "<group>"; };
 		A06487352A25FC34003EDF99 /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
 		A06487372A2603AA003EDF99 /* MySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySection.swift; sourceTree = "<group>"; };
+		A0E07C052A2981850071E0BC /* Mystate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mystate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				A03A45492A272BA000337C56 /* Myspacer.swift */,
 				A03A454B2A272F0300337C56 /* Mycolor.swift */,
 				A03A454D2A27322D00337C56 /* MyView.swift */,
+				A0E07C052A2981850071E0BC /* Mystate.swift */,
 				A00CE1342A243BDB00C1AA3F /* Assets.xcassets */,
 				A00CE1362A243BDB00C1AA3F /* Preview Content */,
 			);
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A03A454E2A27322D00337C56 /* MyView.swift in Sources */,
+				A0E07C062A2981850071E0BC /* Mystate.swift in Sources */,
 				A00CE1332A243BDA00C1AA3F /* ContentView.swift in Sources */,
 				A06487362A25FC34003EDF99 /* MyList.swift in Sources */,
 				A06487382A2603AA003EDF99 /* MySection.swift in Sources */,
