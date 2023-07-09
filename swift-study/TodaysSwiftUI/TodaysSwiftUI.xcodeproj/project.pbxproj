@@ -27,6 +27,7 @@
 		A06487342A25F236003EDF99 /* Myscroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487332A25F236003EDF99 /* Myscroll.swift */; };
 		A06487362A25FC34003EDF99 /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487352A25FC34003EDF99 /* MyList.swift */; };
 		A06487382A2603AA003EDF99 /* MySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487372A2603AA003EDF99 /* MySection.swift */; };
+		A068B1D12A5A9FCA0021B751 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A068B1D02A5A9FCA0021B751 /* MyTabView.swift */; };
 		A08A23472A585A2400E0EC9D /* MyModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08A23462A585A2400E0EC9D /* MyModal.swift */; };
 		A0E07C062A2981850071E0BC /* Mystate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E07C052A2981850071E0BC /* Mystate.swift */; };
 /* End PBXBuildFile section */
@@ -53,6 +54,7 @@
 		A06487332A25F236003EDF99 /* Myscroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Myscroll.swift; sourceTree = "<group>"; };
 		A06487352A25FC34003EDF99 /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
 		A06487372A2603AA003EDF99 /* MySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySection.swift; sourceTree = "<group>"; };
+		A068B1D02A5A9FCA0021B751 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
 		A08A23462A585A2400E0EC9D /* MyModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModal.swift; sourceTree = "<group>"; };
 		A0E07C052A2981850071E0BC /* Mystate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mystate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -112,6 +114,7 @@
 			children = (
 				A08A23462A585A2400E0EC9D /* MyModal.swift */,
 				A01419632A58CF5A0042777A /* MyAlert.swift */,
+				A068B1D02A5A9FCA0021B751 /* MyTabView.swift */,
 				A00B244D2A2C3FBA00A554F7 /* Modifier */,
 			);
 			path = Views;
@@ -252,6 +255,7 @@
 				A06487302A259CA8003EDF99 /* MyImage.swift in Sources */,
 				A064872E2A259B5B003EDF99 /* Mytext.swift in Sources */,
 				A08A23472A585A2400E0EC9D /* MyModal.swift in Sources */,
+				A068B1D12A5A9FCA0021B751 /* MyTabView.swift in Sources */,
 				A06487322A25C79F003EDF99 /* Mystack.swift in Sources */,
 				A03A454C2A272F0300337C56 /* Mycolor.swift in Sources */,
 				A01D97102A2CA5F10047DA23 /* MyDarkColor.swift in Sources */,
