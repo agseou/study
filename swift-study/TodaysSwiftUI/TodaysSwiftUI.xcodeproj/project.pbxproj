@@ -31,6 +31,7 @@
 		A06487382A2603AA003EDF99 /* MySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487372A2603AA003EDF99 /* MySection.swift */; };
 		A068B1D12A5A9FCA0021B751 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A068B1D02A5A9FCA0021B751 /* MyTabView.swift */; };
 		A08108952A5D02C6004FF4C1 /* MyProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08108942A5D02C6004FF4C1 /* MyProgress.swift */; };
+		A08108972A5D0790004FF4C1 /* MyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08108962A5D0790004FF4C1 /* MyLabel.swift */; };
 		A089E4EF2A5AAAA4005458A8 /* MyToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A089E4EE2A5AAAA4005458A8 /* MyToggle.swift */; };
 		A08A23472A585A2400E0EC9D /* MyModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08A23462A585A2400E0EC9D /* MyModal.swift */; };
 		A0E07C062A2981850071E0BC /* Mystate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E07C052A2981850071E0BC /* Mystate.swift */; };
@@ -62,6 +63,7 @@
 		A06487372A2603AA003EDF99 /* MySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySection.swift; sourceTree = "<group>"; };
 		A068B1D02A5A9FCA0021B751 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
 		A08108942A5D02C6004FF4C1 /* MyProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProgress.swift; sourceTree = "<group>"; };
+		A08108962A5D0790004FF4C1 /* MyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLabel.swift; sourceTree = "<group>"; };
 		A089E4EE2A5AAAA4005458A8 /* MyToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggle.swift; sourceTree = "<group>"; };
 		A08A23462A585A2400E0EC9D /* MyModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModal.swift; sourceTree = "<group>"; };
 		A0E07C052A2981850071E0BC /* Mystate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mystate.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				A040D6EE2A2DC5F600FD2E43 /* MyDivider.swift */,
 				A0624AB92A5C4B3700045D37 /* MyTextField.swift */,
 				A0624ABB2A5C518B00045D37 /* MySecureField.swift */,
+				A08108962A5D0790004FF4C1 /* MyLabel.swift */,
 			);
 			path = Texts;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				A03A454A2A272BA000337C56 /* Myspacer.swift in Sources */,
 				A06487342A25F236003EDF99 /* Myscroll.swift in Sources */,
 				A00CE13F2A243F0000C1AA3F /* MyButton.swift in Sources */,
+				A08108972A5D0790004FF4C1 /* MyLabel.swift in Sources */,
 				A040D6EF2A2DC5F600FD2E43 /* MyDivider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
