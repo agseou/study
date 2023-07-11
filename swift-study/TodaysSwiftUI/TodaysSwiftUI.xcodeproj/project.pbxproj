@@ -30,6 +30,7 @@
 		A06487362A25FC34003EDF99 /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487352A25FC34003EDF99 /* MyList.swift */; };
 		A06487382A2603AA003EDF99 /* MySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06487372A2603AA003EDF99 /* MySection.swift */; };
 		A068B1D12A5A9FCA0021B751 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A068B1D02A5A9FCA0021B751 /* MyTabView.swift */; };
+		A08108952A5D02C6004FF4C1 /* MyProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08108942A5D02C6004FF4C1 /* MyProgress.swift */; };
 		A089E4EF2A5AAAA4005458A8 /* MyToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A089E4EE2A5AAAA4005458A8 /* MyToggle.swift */; };
 		A08A23472A585A2400E0EC9D /* MyModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08A23462A585A2400E0EC9D /* MyModal.swift */; };
 		A0E07C062A2981850071E0BC /* Mystate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E07C052A2981850071E0BC /* Mystate.swift */; };
@@ -60,6 +61,7 @@
 		A06487352A25FC34003EDF99 /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
 		A06487372A2603AA003EDF99 /* MySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySection.swift; sourceTree = "<group>"; };
 		A068B1D02A5A9FCA0021B751 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
+		A08108942A5D02C6004FF4C1 /* MyProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProgress.swift; sourceTree = "<group>"; };
 		A089E4EE2A5AAAA4005458A8 /* MyToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggle.swift; sourceTree = "<group>"; };
 		A08A23462A585A2400E0EC9D /* MyModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModal.swift; sourceTree = "<group>"; };
 		A0E07C052A2981850071E0BC /* Mystate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mystate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				A08A23462A585A2400E0EC9D /* MyModal.swift */,
 				A01419632A58CF5A0042777A /* MyAlert.swift */,
 				A068B1D02A5A9FCA0021B751 /* MyTabView.swift */,
+				A08108942A5D02C6004FF4C1 /* MyProgress.swift */,
 				A00B244D2A2C3FBA00A554F7 /* Modifier */,
 			);
 			path = Views;
@@ -267,6 +270,7 @@
 				A08A23472A585A2400E0EC9D /* MyModal.swift in Sources */,
 				A068B1D12A5A9FCA0021B751 /* MyTabView.swift in Sources */,
 				A0624ABC2A5C518B00045D37 /* MySecureField.swift in Sources */,
+				A08108952A5D02C6004FF4C1 /* MyProgress.swift in Sources */,
 				A06487322A25C79F003EDF99 /* Mystack.swift in Sources */,
 				A03A454C2A272F0300337C56 /* Mycolor.swift in Sources */,
 				A0624ABA2A5C4B3700045D37 /* MyTextField.swift in Sources */,
