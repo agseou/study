@@ -20,6 +20,7 @@
 		A03A454C2A272F0300337C56 /* Mycolor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03A454B2A272F0300337C56 /* Mycolor.swift */; };
 		A03A454E2A27322D00337C56 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03A454D2A27322D00337C56 /* MyView.swift */; };
 		A040D6EF2A2DC5F600FD2E43 /* MyDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A040D6EE2A2DC5F600FD2E43 /* MyDivider.swift */; };
+		A04B83982A6040CC005C1C04 /* MyAppear.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04B83972A6040CC005C1C04 /* MyAppear.swift */; };
 		A05467632A2B024B008A9C92 /* MyPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = A05467622A2B024B008A9C92 /* MyPadding.swift */; };
 		A05467672A2B034A008A9C92 /* MyFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = A05467662A2B034A008A9C92 /* MyFrame.swift */; };
 		A0624ABA2A5C4B3700045D37 /* MyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0624AB92A5C4B3700045D37 /* MyTextField.swift */; };
@@ -54,6 +55,7 @@
 		A03A454B2A272F0300337C56 /* Mycolor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mycolor.swift; sourceTree = "<group>"; };
 		A03A454D2A27322D00337C56 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		A040D6EE2A2DC5F600FD2E43 /* MyDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDivider.swift; sourceTree = "<group>"; };
+		A04B83972A6040CC005C1C04 /* MyAppear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppear.swift; sourceTree = "<group>"; };
 		A05467622A2B024B008A9C92 /* MyPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPadding.swift; sourceTree = "<group>"; };
 		A05467662A2B034A008A9C92 /* MyFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFrame.swift; sourceTree = "<group>"; };
 		A0624AB92A5C4B3700045D37 /* MyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextField.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				A068B1D02A5A9FCA0021B751 /* MyTabView.swift */,
 				A08108942A5D02C6004FF4C1 /* MyProgress.swift */,
 				A00B244D2A2C3FBA00A554F7 /* Modifier */,
+				A04B83972A6040CC005C1C04 /* MyAppear.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 				A00CE1332A243BDA00C1AA3F /* ContentView.swift in Sources */,
 				A06487362A25FC34003EDF99 /* MyList.swift in Sources */,
 				A06487382A2603AA003EDF99 /* MySection.swift in Sources */,
+				A04B83982A6040CC005C1C04 /* MyAppear.swift in Sources */,
 				A01419642A58CF5A0042777A /* MyAlert.swift in Sources */,
 				A089E4EF2A5AAAA4005458A8 /* MyToggle.swift in Sources */,
 				A05467632A2B024B008A9C92 /* MyPadding.swift in Sources */,
